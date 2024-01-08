@@ -9,6 +9,8 @@ border: 16px;
 color: #070211;
 
 
+
+
 }
 
 .banner-title{
@@ -21,7 +23,7 @@ font-style: normal;
 font-weight: 900;
 line-height: 95px;
 margin: auto;
-padding: 150px 344px 120px 344px;
+padding-bottom: 150px;
 
 
 
@@ -34,7 +36,28 @@ font-family: Merriweather;
 font-size: 32px;
 font-style: normal;
 font-weight: 400;
-
-
-
+padding-top: 90px;
 }
+
+.discount{
+    width: 1600px;
+height: 7335px;
+background: #FFF;
+text-align: center;
+margin: auto;
+}
+
+.image{
+    width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+fill: url(resources/New\ Year\ Photo.png), lightgray 50% / cover no-repeat;
+}
+
+.offer{
+    color: red;
+}
+
+
+
+
