@@ -27,6 +27,7 @@ padding-bottom: 150px;
 
 
 
+
 }
 
 .banner-greeting{
@@ -40,8 +41,8 @@ padding-top: 90px;
 }
 
 .discount{
-    width: 1600px;
-height: 7335px;
+    width: 400px;
+height: 900px;
 background: #FFF;
 text-align: center;
 margin: auto;
@@ -52,11 +53,58 @@ margin: auto;
 height: 500px;
 flex-shrink: 0;
 fill: url(resources/New\ Year\ Photo.png), lightgray 50% / cover no-repeat;
+position: relative;
+ padding-left: o;
+
 }
 
 .offer{
     color: red;
 }
+
+.banner2{
+    display: flex;
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+background-image: url(resources/Vectorrr.png);
+background-repeat: no-repeat;
+padding: 30px 30px 30px 150px;
+padding-bottom: 150000px;
+
+.welcome{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+
+}
+
+.description{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */}
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
 
 
 
